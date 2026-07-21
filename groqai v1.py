@@ -1,7 +1,7 @@
 from groq import Groq
 
 # ================= CONFIGURATION =================
-client = Groq(api_key="GROQ_API_KEY")  # ← Ta clé
+client = Groq(api_key="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")  # ← Ta clé
 
 # Liste qui garde l'historique de la conversation
 messages = [
